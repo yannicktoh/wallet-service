@@ -1,6 +1,7 @@
 package money
 
 import "errors"
+import "fmt"
 
 // Money représente un montant monétaire en centimes (int64).
 type Money int64
